@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Teresa Ferreira | Academic</title>
+    <link>/authors/maria-teresa-ferreira/</link>
+      <atom:link href="/authors/maria-teresa-ferreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Teresa Ferreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Maria Teresa Ferreira</title>
+      <link>/authors/maria-teresa-ferreira/</link>
+    </image>
+    
+    <item>
+      <title>Genetic evidence of African slavery at the beginning of the trans-Atlantic slave trade</title>
+      <link>/publication/martiniano-2014-genetic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2014-genetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

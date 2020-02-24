@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Martiniano | Academic</title>
+    <link>/authors/rui-martiniano/</link>
+      <atom:link href="/authors/rui-martiniano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Martiniano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rui Martiniano</title>
+      <link>/authors/rui-martiniano/</link>
+    </image>
+    
+    <item>
+      <title>Removing reference bias in ancient DNA data analysis by mapping to a sequence variation graph</title>
+      <link>/publication/martiniano-2019-removing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2019-removing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first horse herders and the impact of early Bronze Age steppe expansions into Asia</title>
+      <link>/publication/de-2018-first/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2018-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic signals of migration and continuity in Britain before the Anglo-Saxons</title>
+      <link>/publication/martiniano-2016-genomic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2016-genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome</title>
+      <link>/publication/cassidy-2016-neolithic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/cassidy-2016-neolithic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic evidence of African slavery at the beginning of the trans-Atlantic slave trade</title>
+      <link>/publication/martiniano-2014-genetic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2014-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y-chromosome diversity in central Portugal reveals signatures of ancient maritime expansions</title>
+      <link>/publication/martiniano-2013-chromosome/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2013-chromosome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

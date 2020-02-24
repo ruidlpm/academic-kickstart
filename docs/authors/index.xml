@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Rui Martiniano is a Research Fellow at the University of Cambridge investigating ancient DNA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrea Manica</title>
+      <link>/authors/andrea-manica/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/andrea-manica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eppie R Jones</title>
+      <link>/authors/eppie-r-jones/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eppie-r-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Garrison</title>
+      <link>/authors/erik-garrison/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/erik-garrison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Durbin</title>
+      <link>/authors/richard-durbin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/richard-durbin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rui Martiniano</title>
+      <link>/authors/rui-martiniano/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rui-martiniano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claus Zacho</title>
+      <link>/authors/claus-zacho/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/claus-zacho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gojko Barjamovic</title>
+      <link>/authors/gojko-barjamovic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/gojko-barjamovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guus Kroonen</title>
+      <link>/authors/guus-kroonen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/guus-kroonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Vı́ctor Moreno-Mayar</title>
+      <link>/authors/j-v%C4%B1ctor-moreno-mayar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/j-v%C4%B1ctor-moreno-mayar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jack Kamm</title>
+      <link>/authors/jack-kamm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jack-kamm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michaël Peyrot</title>
+      <link>/authors/michael-peyrot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-peyrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurbol Baimukhanov</title>
+      <link>/authors/nurbol-baimukhanov/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/nurbol-baimukhanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter de Barros Damgaard</title>
+      <link>/authors/peter-de-barros-damgaard/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/peter-de-barros-damgaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Rasmussen</title>
+      <link>/authors/simon-rasmussen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-rasmussen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Fidalgo</title>
+      <link>/authors/d-fidalgo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/d-fidalgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Manco</title>
+      <link>/authors/l-manco/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/l-manco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LM Cassidy</title>
+      <link>/authors/lm-cassidy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/lm-cassidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Serra</title>
+      <link>/authors/m-serra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/m-serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MJ Coelho</title>
+      <link>/authors/mj-coelho/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/mj-coelho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NM Silva</title>
+      <link>/authors/nm-silva/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/nm-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Martiniano</title>
+      <link>/authors/r-martiniano/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/r-martiniano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R McLaughlin</title>
+      <link>/authors/r-mclaughlin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/r-mclaughlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Ó&#39;Maoldúin</title>
+      <link>/authors/r-omaolduin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/r-omaolduin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Pereira</title>
+      <link>/authors/t-pereira/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/t-pereira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anwen Caffell</title>
+      <link>/authors/anwen-caffell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/anwen-caffell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrie Hartwell</title>
+      <link>/authors/barrie-hartwell/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/barrie-hartwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel G Bradley</title>
+      <link>/authors/daniel-g-bradley/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-g-bradley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eileen M Murphy</title>
+      <link>/authors/eileen-m-murphy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/eileen-m-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gundula Müldner</title>
+      <link>/authors/gundula-muldner/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/gundula-muldner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Mallory</title>
+      <link>/authors/james-mallory/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/james-mallory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan H Veldink</title>
+      <link>/authors/jan-h-veldink/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/jan-h-veldink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Janet Montgomery</title>
+      <link>/authors/janet-montgomery/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/janet-montgomery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurt Hunter-Mann</title>
+      <link>/authors/kurt-hunter-mann/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/kurt-hunter-mann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lara M Cassidy</title>
+      <link>/authors/lara-m-cassidy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/lara-m-cassidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malin Holst</title>
+      <link>/authors/malin-holst/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/malin-holst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew D Teasdale</title>
+      <link>/authors/matthew-d-teasdale/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/matthew-d-teasdale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Russell L McLaughlin</title>
+      <link>/authors/russell-l-mclaughlin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/russell-l-mclaughlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wouter Van Rheenen</title>
+      <link>/authors/wouter-van-rheenen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/wouter-van-rheenen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catarina Coelho</title>
+      <link>/authors/catarina-coelho/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/catarina-coelho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Joao Neves</title>
+      <link>/authors/maria-joao-neves/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-joao-neves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Teresa Ferreira</title>
+      <link>/authors/maria-teresa-ferreira/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-teresa-ferreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ron Pinhasi</title>
+      <link>/authors/ron-pinhasi/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/ron-pinhasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augusto Abade</title>
+      <link>/authors/augusto-abade/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/augusto-abade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Licinio Manco</title>
+      <link>/authors/licinio-manco/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/licinio-manco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yara Feitosa</title>
+      <link>/authors/yara-feitosa/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/yara-feitosa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

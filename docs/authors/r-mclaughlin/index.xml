@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R McLaughlin | Academic</title>
+    <link>/authors/r-mclaughlin/</link>
+      <atom:link href="/authors/r-mclaughlin/index.xml" rel="self" type="application/rss+xml" />
+    <description>R McLaughlin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R McLaughlin</title>
+      <link>/authors/r-mclaughlin/</link>
+    </image>
+    
+    <item>
+      <title>The population genomics of archaeological transition in west Iberia: Investigation of ancient substructure using imputation and haplotype-based methods</title>
+      <link>/publication/martiniano-2017-population/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/martiniano-2017-population/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
